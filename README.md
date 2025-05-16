@@ -5,6 +5,6 @@ This repository contains documentation of cybersecurity exercises, including rec
 ## Structure
 - [Reconnaissance](/Reconnaissance/README.md): Open-source intelligence (OSINT) and social engineering simulations using Capital One as a case study.
 - [Penetration_testing](/Penetration_testing/README.md): Security assessment and vulnerability exploitation using OWASP Juice Shop in a lab environment.
-- `MITRE_ATTACK/`: Mapping real-world breaches to the MITRE ATT&CK framework, including an analysis of the Equifax breach.
+- [MITRE_ATTACK](/MITRE_ATTACK/README.md): Mapping real-world breaches to the MITRE ATT&CK framework, including an analysis of the Equifax breach.
 
 These documents are designed for educational and professional development purposes.
