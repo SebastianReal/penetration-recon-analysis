@@ -9,8 +9,8 @@ This lab maps the 2017 Equifax breach to MITRE ATT&CK techniques and tactics.
 - Includes actionable recommendations for detection and prevention.
 
 ## Overview
-This section maps a real-world breach (Equifax) to the MITRE ATT&CK framework, providing insights into how 
+This section maps a [real-world breach](./Lab2.md) (Equifax) to the MITRE ATT&CK framework, providing insights into how 
 attackers progress through tactics like Reconnaissance, Initial Access, and Privilege Escalation. 
-Each step is tied to MITRE Tactic IDs, helping readers understand and apply the framework for threat modeling and incident analysis.
+Each step is tied to MITRE Tactic IDs, helping readers understand and apply the framework for threat modelling and incident analysis.
 
 This case study highlights the importance of patch management, access control, and SOC visibility.
