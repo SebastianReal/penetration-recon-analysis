@@ -10,7 +10,7 @@ This folder includes a detailed security assessment of the OWASP Juice Shop vuln
 - Security best practice recommendations for remediation.
 
 ## Overview
-This section presents a penetration test against the OWASP Juice Shop, a vulnerable web application designed for security training. 
+This section presents a penetration test against the [OWASP Juice Shop](./OWASP_Juice_Shop.md), a vulnerable web application designed for security training. 
 It identifies multiple vulnerabilities, such as SQL Injection and improper access controls, and includes screenshots, testing steps, 
 and remediation strategies aligned with OWASP and NIST frameworks.
 
