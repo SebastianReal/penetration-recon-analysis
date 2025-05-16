@@ -4,8 +4,8 @@ This folder documents the process of conducting reconnaissance on Capital One us
 
 ## Contents
 - [Lab1_1.md](./Lab1_1.md): Initial information gathering using OSINT tools and social media.
-- **Lab1_2.md**: Deep dive into employee profiles, company structure, and hypothetical attack paths.
-- **Lab1_3.md**: Recommendations to reduce digital footprint and exposure.
+- [Lab1_2.md](./Lab1_2.md): Deep dive into employee profiles, company structure, and hypothetical attack paths.
+- [Lab1_3.md](./Lab1_3.md): Recommendations to reduce digital footprint and exposure.
 
 ## Overview
 
